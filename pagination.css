@@ -1,0 +1,30 @@
+
+.paginationh {
+margin-top: 5px;
+clear: both;
+text-align: center;
+clear: both;
+font-size: 12px;
+}
+.paginationh a {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #52bfea;
+text-decoration: none;
+color: #52bfea;
+}
+
+.paginationh span.disabled {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #f3f3f3;
+color: #ccc;
+}
+.paginationh span.current {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #52bfea;
+font-weight: bold;
+background-color: #52bfea;
+color: #FFF;
+}
